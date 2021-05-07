@@ -1,3 +1,4 @@
+
 # Awesome Docker [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)][sindresorhus] [![Netlify Status](https://api.netlify.com/api/v1/badges/8ca86717-11ba-46d4-9d0a-700d8527f13b/deploy-status)](https://app.netlify.com/sites/awesome-docker/deploys)<!-- omit in toc -->
 
 > A curated list of Docker resources and projects
@@ -720,6 +721,7 @@ Services to securely store your Docker images.
 - [Learn Docker in a Month of Lunches](https://www.manning.com/books/learn-docker-in-a-month-of-lunches)
 - [Learn Docker](https://blog.coursesity.com/best-docker-tutorials/) - Learn Docker - curated list of the top online docker tutorials and courses.
 - [Programming Community Curated Resources for learning Docker](https://hackr.io/tutorials/learn-docker)
+- [DevOps Training](https://www.gamutgurus.com/devops-training) with Decker
 
 
 ## Awesome Lists
