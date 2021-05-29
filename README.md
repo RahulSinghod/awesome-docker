@@ -719,6 +719,7 @@ Services to securely store your Docker images.
 - [Learn Docker in a Month of Lunches](https://www.manning.com/books/learn-docker-in-a-month-of-lunches)
 - [Learn Docker](https://blog.coursesity.com/best-docker-tutorials/) - Learn Docker - curated list of the top online docker tutorials and courses.
 - [Programming Community Curated Resources for learning Docker](https://hackr.io/tutorials/learn-docker)
+- [DevOps Training in Bangalore](https://www.gamutgurus.com/devops-training)
 
 
 ## Awesome Lists
